@@ -12,10 +12,10 @@ def build_views():
     conn = sqlite3.connect(DB_PATH)
 
     for sql_file in sorted(VIEWS_DIR.glob("*.sql")):
-        print(f"Creating view from {sql_file.name}")
         with open(sql_file, "r", encoding="utf-8") as f:
             conn.executescript(f.read())
 
+    print("Views created succesfully")
     conn.commit()
     conn.close()
 
