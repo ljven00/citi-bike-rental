@@ -2,7 +2,7 @@
 CREATE VIEW IF NOT EXISTS v_weather_trip_demand AS
 SELECT
     d.trip_date,
-    d.trip_count,
+    d.total_trips,
     d.avg_trip_duration,
     w.avg_temp,
     w.max_temp,
