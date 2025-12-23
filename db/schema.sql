@@ -49,5 +49,5 @@ CREATE TABLE IF NOT EXISTS weather_data (
 );
 
 -- Indexes
-CREATE INDEX idx_trips_start_time ON trips(start_time);
-CREATE INDEX idx_weather_date ON weather_data(date);
+CREATE INDEX IF NOT EXISTS idx_trips_start_time ON trips(start_time);
+CREATE INDEX IF NOT EXISTS idx_weather_date ON weather_data(date);
