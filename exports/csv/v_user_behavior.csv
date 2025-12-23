@@ -1,0 +1,3 @@
+user_type,trip_count,active_days,avg_daily_trips,avg_trip_duration,min_trip_duration,max_trip_duration
+customer,15521,352,44.09,3024.88,61,1569765
+subscriber,231683,362,640.01,741.62,61,16329808

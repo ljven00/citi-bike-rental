@@ -1,0 +1,103 @@
+station_id,station_name,start_trip_count,end_trip_count,total_trip_count
+3186,Grove St PATH,28736,38295,67031
+3183,Exchange Place,19014,22236,41250
+3195,Sip Ave,17137,15881,33018
+3203,Hamilton Park,15300,15418,30718
+3202,Newport PATH,13363,13533,26896
+3214,Essex Light Rail,9462,9959,19421
+3209,Brunswick St,9573,8450,18023
+3199,Newport Pkwy,9031,8935,17966
+3211,Newark Ave,9168,8354,17522
+3187,Warren St,8344,8226,16570
+3213,Van Vorst Park,8579,7658,16237
+3185,City Hall,7791,8013,15804
+3184,Paulus Hook,7807,7865,15672
+3192,Liberty Light Rail,6578,6932,13510
+3194,McGinley Square,7274,5451,12725
+3267,Morris Canal,5948,5337,11285
+3205,JC Medical Center,4687,4826,9513
+3225,Baldwin at Montgomery,4529,3692,8221
+3276,Marin Light Rail,4163,3926,8089
+3207,Oakland Ave,3979,3124,7103
+3193,Lincoln Park,3184,3875,7059
+3270,Jersey & 6th St,3847,2635,6482
+3210,Pershing Field,3313,3128,6441
+3272,Jersey & 3rd,3395,2898,6293
+3278,Monmouth and 6th,3393,2722,6115
+3275,Columbus Drive,2770,2573,5343
+3220,5 Corners Library,2729,2248,4977
+3279,Dixon Mills,2738,2187,4925
+3201,Dey St,2191,2382,4573
+3212,Christ Hospital,2366,1896,4262
+3206,Hilltop,2593,1597,4190
+3215,Central Ave,2234,1865,4099
+3198,Heights Elevator,1793,1640,3433
+3273,Manila & 1st,1765,1435,3200
+3196,Riverview Park,1774,1424,3198
+3197,North St,1664,1446,3110
+3190,Garfield Ave Station,924,857,1781
+3268,Lafayette Park,835,848,1683
+3269,Brunswick & 6th,859,780,1639
+3191,Union St,356,656,1012
+3188,NJCU,519,484,1003
+3281,Leonard Gordon Park,558,421,979
+3189,West Side Light Rail,240,373,613
+3217,Bayside Park,345,252,597
+3200,MLK Light Rail,243,234,477
+3216,Columbia Park,192,237,429
+3280,Astor Place,177,154,331
+3271,Danforth Light Rail,60,58,118
+3277,Communipaw & Berry Lane,34,26,60
+3274,Bethune Center,29,28,57
+327,Vesey Pl & River Terrace,0,11,11
+173,Broadway & W 49 St,0,10,10
+225,W 14 St & The High Line,0,6,6
+3426,JCBS Depot,1,5,6
+514,12 Ave & W 40 St,0,5,5
+3002,South End Ave & Liberty St,0,5,5
+276,Duane St & Greenwich St,0,4,4
+358,Christopher St & Greenwich St,0,4,4
+249,Harrison St & Hudson St,0,3,3
+295,Pike St & E Broadway,0,3,3
+304,Broadway & Battery Pl,0,3,3
+329,Greenwich St & North Moore St,0,3,3
+403,E 2 St & 2 Ave,0,3,3
+405,Washington St & Gansevoort St,0,3,3
+498,Broadway & W 32 St,0,3,3
+3331,Riverside Dr & W 104 St,0,3,3
+347,Greenwich St & W Houston St,0,2,2
+363,West Thames St,0,2,2
+376,John St & William St,0,2,2
+457,Broadway & W 58 St,0,2,2
+147,Greenwich St & Warren St,0,1,1
+224,Spruce St & Nassau St,0,1,1
+252,MacDougal St & Washington Sq,0,1,1
+284,Greenwich Ave & 8 Ave,0,1,1
+315,South St & Gouverneur Ln,0,1,1
+328,Watts St & Greenwich St,0,1,1
+351,Front St & Maiden Ln,0,1,1
+359,E 47 St & Park Ave,0,1,1
+360,William St & Pine St,0,1,1
+380,W 4 St & 7 Ave S,0,1,1
+386,Centre St & Worth St,0,1,1
+390,Duffield St & Willoughby St,0,1,1
+393,E 5 St & Avenue C,0,1,1
+401,Allen St & Rivington St,0,1,1
+426,West St & Chambers St,0,1,1
+427,Bus Slip & State St,0,1,1
+428,E 3 St & 1 Ave,0,1,1
+430,York St & Jay St,0,1,1
+446,W 24 St & 7 Ave,0,1,1
+477,W 41 St & 8 Ave,0,1,1
+484,W 44 St & 5 Ave,0,1,1
+501,FDR Drive & E 35 St,0,1,1
+505,6 Ave & W 33 St,0,1,1
+520,W 52 St & 5 Ave,0,1,1
+534,Water - Whitehall Plaza,0,1,1
+2004,6 Ave & Broome St,0,1,1
+2008,Little West St & 1 Pl,0,1,1
+3085,Roebling St & N 4 St,0,1,1
+3169,Riverside Dr & W 82 St,0,1,1
+3178,Riverside Dr & W 78 St,0,1,1
+3265,E 2 St & 2 Ave E,0,1,1
+3314,W 95 St & Broadway,0,1,1
